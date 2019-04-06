@@ -11,3 +11,7 @@ Menu Commands
 - f - find related genomes (file) 
 - ? - show this menu
 - q - quit
+
+# Release
+
+Compiled for MacOS
